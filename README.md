@@ -32,5 +32,4 @@ Give discounts in categories where customers spend the most.
 Encourage customers to use online payments more comfortably
 
 
-GitHub project:
-https://github.com/shravan11-ai/Credit_Card_Financial_Dashboard
+
